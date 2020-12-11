@@ -6,6 +6,7 @@ import java.util.Scanner;
 * IF anidados
 * Para aceptar un prestamo, la persona debe ganar al menos 30000 pesos
 * Tener una antiguedad de 2 años en su trabajo
+* Capitulo 3 IF anidados
 */
 public class LoanQualifier {
 
