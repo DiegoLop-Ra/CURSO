@@ -5,6 +5,7 @@ package Chapter3;
  * Se espera que los empleados tengan mas de 10 ventas por semana
  * Para quien lo logra recibe un mensaje de felicitacion
  * Para quien no lo logra se le avisa cuantas ventas le faltaron
+ * Ejericcio Capitulo 3 IF ELSE
  */
 
 import java.util.Scanner;
