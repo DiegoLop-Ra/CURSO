@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-
+//IF ELSE IF
 public class TestResuts {
     public static void main(String args[]){
 
