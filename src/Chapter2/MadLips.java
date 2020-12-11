@@ -3,7 +3,7 @@ package Chapter2;
 import java.util.Scanner;
 
 public class MadLips {
-
+//Ejercicio MadLips
     public static void main(String arg[]){
 
         System.out.println("Cual es tu estacion favorita del año?.");
