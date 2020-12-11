@@ -1,7 +1,7 @@
 package Chapter2;
 
 import java.util.Scanner;
-
+//Ejercicio 1
 public class GrossPayCalculator {
     public static void main(String arg[]){
 
