@@ -3,6 +3,7 @@ package Chapter3;
 /* If Statement.
 el personal recibe un pago de 1000 pesos semanales.
 el personal que exceda 10 ventas obtiene un adicional de 250 pesos.
+// Ejercicio capitulo 3 IF
 */
 
 import java.util.Scanner;
