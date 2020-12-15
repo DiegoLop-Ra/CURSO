@@ -1,7 +1,7 @@
 package Chapter7;
 
 import java.util.Random;
-
+//actualizacion
 public class Arreglos {
 
     private static final int LENGTH = 6;
