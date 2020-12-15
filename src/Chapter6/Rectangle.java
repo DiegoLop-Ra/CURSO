@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class ClassesyObjetos {
+public class Rectangle {
 
     private double length;
     private double width;
