@@ -3,12 +3,12 @@ package Chapter3;
 import java.util.Scanner;
 
 /*
-* IF anidados
+* Operadores Logicos
 * Para aceptar un prestamo, la persona debe ganar al menos 30000 pesos
 * Tener una antiguedad de 2 años en su trabajo
 * Capitulo 3 IF anidados
 */
-public class LoanQualifier {
+public class OperadoresLogiosLoanQualifier {
 
     public static void main(String args[]) {
 
@@ -26,14 +26,11 @@ public class LoanQualifier {
         scanner.close();
 
         //Tomar decision
-        if (salario >= SalarioMin) {
-            if (Tiempo >= TiempoMin) {
+        if (salario >= SalarioMin && Tiempo >= TiempoMin) {
                 System.out.println("Felicidades!! tu prestamo fue aprobado");
-            } else {
-                System.out.println("Lo sentimos, debes tener " + TiempoMin + " años o mas en tu trabajo actual");
-            }
-        } else {
-            System.out.println("Lo sentimos tu debes ganar al menos " + SalarioMin + " en tu trabajo actual");
+        }
+        else {
+            System.out.println("Lo sentimos, no cumples con los requisitos minimos");
         }
     }
 
